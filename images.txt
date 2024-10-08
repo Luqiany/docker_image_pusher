@@ -9,3 +9,4 @@ jenkins/jenkins
 postgres
 sonarqube:8.9.3-community
 sonarqube
+calico/cni:v3.15.1
