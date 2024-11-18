@@ -4,5 +4,4 @@ nginx:latest
 nginx:1.20.1
 redis:latest
 redis:6.2.4
-8-jdk-slim
-8-jdk-linux
+8-jdk
