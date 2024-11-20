@@ -1,9 +1,4 @@
 #支持私库
 #支持指定架构
-nginx:latest
-nginx:1.20.1
-redis:latest
-redis:6.2.4
-openjdk:8-jdk
 kubernetesui/dashboard:v2.0.4
 kubernetesui/metrics-scraper:v1.0.4
